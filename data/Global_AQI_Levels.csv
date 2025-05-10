@@ -1,0 +1,526 @@
+,country_name,city_name,measure,aqi_level,lat,lon
+0,Russia,Pechora,min_aqi,17,65.1142862,57.16074
+1,Brazil,Andradina,min_aqi,11,-22.2477565,-53.3480621
+2,Italy,Codroipo,min_aqi,27,45.9611171,12.9789516
+3,Poland,Piaseczno,min_aqi,28,52.0747377,21.0270885
+4,France,Matoury,min_aqi,19,4.8496712,-52.3268695
+5,United States of America,Provo,min_aqi,12,40.2337289,-111.6587085
+6,Germany,Sonthofen,min_aqi,23,47.5134055,10.2721524
+7,Belgium,Hoogstraten,min_aqi,29,51.39573015,4.744087183464012
+8,Egypt,Alexandria,min_aqi,56,43.9702236,25.3288462
+9,China,Simao,min_aqi,20,-21.4800208,-47.5531095
+10,Netherlands,Lelystad,min_aqi,26,52.5150949,5.4768915
+11,India,Birur,min_aqi,21,13.5988956,75.9734401
+12,Pakistan,Dir,min_aqi,59,9.591323,41.8566341
+13,Republic of North Macedonia,Valandovo,min_aqi,33,41.3173419,22.5619765
+14,Colombia,Puerto Asis,min_aqi,10,0.4979751,-76.4951418
+15,Romania,Caracal,min_aqi,35,44.1123292,24.3463095
+16,Indonesia,Manokwari,min_aqi,10,-0.8614456,134.0767324
+17,Finland,Kerava,min_aqi,23,60.4034398,25.1041013
+18,South Africa,Graaff Reinet,min_aqi,18,-32.2535405,24.5336485
+19,United Kingdom,Inverness,min_aqi,23,57.4790124,-4.225739
+20,Tanzania,Kahama,min_aqi,15,-3.8289877,32.6011558
+21,Haiti,Dessalines,min_aqi,74,19.2613129,-72.5170223
+22,Somalia,Dinsor,min_aqi,22,35.6918588,-78.8281748
+23,Philippines,Panacan,min_aqi,14,9.2464008,118.4090357
+24,Latvia,Ludza,min_aqi,31,56.5477177,27.7242092
+25,Chad,Oum Hadjer,min_aqi,27,13.2937546,19.6889527
+26,New Zealand,Levin,min_aqi,13,50.6137762,14.284155
+27,Tunisia,Qurbah,min_aqi,31,15.351831,44.573073
+28,Vietnam,Son La,min_aqi,21,21.8487579,106.6140692
+29,Iran,Hadishahr,min_aqi,36,38.8416756,45.6648065
+30,Mexico,La Mira,min_aqi,14,39.7210593,-1.4395226
+31,Japan,Hondo,min_aqi,26,29.3474121,-99.1412026
+32,El Salvador,Ahuachapan,min_aqi,62,13.86349925,-89.92738611239653
+33,Bulgaria,Svilengrad,min_aqi,31,41.7689145,26.201814
+34,Nigeria,Jega,min_aqi,46,44.2914482,27.6343401
+35,South Sudan,Waw,min_aqi,24,50.0547467,19.9361073
+36,Guatemala,Dolores,min_aqi,27,37.7524811,-108.4596087
+37,Ireland,Limerick,min_aqi,23,52.661252,-8.6301239
+38,Turkey,Turhal,min_aqi,26,40.3868287,36.0838319
+39,Peru,Huaraz,min_aqi,9,-9.5298511,-77.5289981
+40,Dem. Rep. Congo,Moba,min_aqi,30,-7.0427487,29.7737268
+41,Canada,Kitimat,min_aqi,15,54.0535577,-128.6540519
+42,Switzerland,Einsiedeln,min_aqi,28,47.1286095,8.7500299
+43,Denmark,Nuuk,min_aqi,23,64.1766835,-51.7359356
+44,Cameroon,Garoua Boulai,min_aqi,31,5.8948457,14.5471591
+45,Australia,Wangaratta,min_aqi,15,-36.356434,146.3228311
+46,Portugal,Chaves,min_aqi,14,33.2993426,-104.5133481
+47,Côte d'Ivoire,Lakota,min_aqi,20,43.3773933,-94.09346
+48,Sweden,Hudiksvall,min_aqi,26,61.7281607,17.105575
+49,Ethiopia,Yabelo,min_aqi,22,7.5165464,38.4896048
+50,Thailand,Mae Sot,min_aqi,18,49.5396722,-1.7551133
+51,Hungary,Tiszafoldvar,min_aqi,37,46.9803541,20.2541166
+52,Kazakhstan,Zyryanovsk,min_aqi,24,49.7978734,84.2227206
+53,Israel,Sakhnin,min_aqi,44,32.8638052,35.3023184
+54,Spain,Monforte De Lemos,min_aqi,17,42.5236693,-7.5096951
+55,Myanmar,Loikaw,min_aqi,15,19.674167,97.2094441
+56,Papua New Guinea,Tari,min_aqi,8,-21.583333,-63.833333
+57,Madagascar,Antsohihy,min_aqi,15,-14.8775272,47.98715
+58,Lithuania,Marijampole,min_aqi,26,54.5562536,23.3503665
+59,Ghana,Anloga,min_aqi,22,5.7936484,0.8984702
+60,Azerbaijan,Susa,min_aqi,31,45.1372115,7.0539789
+61,Armenia,Vardenis,min_aqi,30,40.184574,45.7269788
+62,Ukraine,Snizhne,min_aqi,34,48.0220754,38.7634612
+63,Malaysia,Semporna,min_aqi,15,4.4790651,118.6118806
+64,Serbia,Cuprija,min_aqi,35,43.222316,18.7560969
+65,Slovakia,Nova Dubnica,min_aqi,43,48.9358736,18.1457351
+66,Gambia,Farafenni,min_aqi,111,13.5721243,-15.5979467
+67,Ecuador,Macas,min_aqi,7,39.3820383,-0.7854865
+68,Bosnia and Herzegovina,Sipovo,min_aqi,27,44.2809431,17.0853048
+69,Czechia,Rumburk,min_aqi,29,50.9517739,14.5569317
+70,Argentina,Comodoro Rivadavia,min_aqi,11,-45.8632024,-67.4752615
+71,Dominican Republic,Pedernales,min_aqi,46,18.0372324,-71.7441566
+72,Guinea,Nzerekore,min_aqi,20,8.3925728,-8.8572519
+73,Bolivia,El Torno,min_aqi,6,40.1361261,-5.9440836
+74,Bangladesh,Barisal,min_aqi,39,22.7047521,90.370729
+75,Sudan,Marabba,min_aqi,37,12.35,32.183333
+76,Chile,Panguipulli,min_aqi,14,-39.6419909,-72.3333801
+77,Panama,Puerto Armuelles,min_aqi,29,8.2725603,-82.8604458
+78,Congo,Owando,min_aqi,60,-0.4833599,15.8974175
+79,Kyrgyzstan,Kyzyl Suu,min_aqi,40,42.339524,78.004654
+80,Mauritius,Chemin Grenier,min_aqi,27,-20.4920408,57.4713418
+81,Greece,Menemeni,min_aqi,39,40.6562959,22.9092506
+82,Malawi,Ntcheu,min_aqi,23,-14.83041285,34.765831629561944
+83,Cuba,Perico,min_aqi,30,-24.3938068,-65.11528896134641
+84,Saudi Arabia,Turayf,min_aqi,85,15.966667,32.55
+85,Benin,Banikoara,min_aqi,30,11.32625415,2.473040680223342
+86,Sierra Leone,Segbwema,min_aqi,18,7.996736,-10.949571
+87,Lebanon,Jazzin,min_aqi,57,45.6494918,13.7663135
+88,Uruguay,Young,min_aqi,11,33.1508315,-98.6962766
+89,Namibia,Gobabis,min_aqi,19,-22.4495283,18.9724666
+90,Albania,Korce,min_aqi,44,40.6158967,20.7772187
+91,Guyana,Georgetown,min_aqi,27,6.8137426,-58.1624465
+92,Senegal,Kedougou,min_aqi,29,12.5570752,-12.1855655
+93,Lesotho,Hlotse,min_aqi,55,-28.866891,28.0579408
+94,Mongolia,Baruun Urt,min_aqi,32,46.6807672,113.2845525
+95,Venezuela,Ciudad Bolivar,min_aqi,27,8.1028532,-63.5469562
+96,Solomon Islands,Honiara,min_aqi,18,-9.4310769,159.9552552
+97,Paraguay,Ayolas,min_aqi,14,-27.3898739,-56.844718
+98,Zimbabwe,Rusape,min_aqi,17,-18.5334765,32.1256769
+99,Austria,Bischofshofen,min_aqi,26,47.4168029,13.2170933
+100,Croatia,Karlovac,min_aqi,31,45.4892522,15.5486303
+101,Honduras,Yoro,min_aqi,16,15.2994474,-87.29169807731974
+102,Cambodia,Kampong Chhnang,min_aqi,21,12.1382025,104.3354098
+103,Uganda,Lukaya,min_aqi,39,-11.8364611,23.9245547
+104,Moldova,Dubasari,min_aqi,34,47.31541525,29.12083841493117
+105,Angola,Ondjiva,min_aqi,20,-17.0705234,15.7280115
+106,Kingdom of Eswatini,Manzini,min_aqi,75,-26.4976444,31.3750815
+107,Afghanistan,Deh Rawud,min_aqi,49,32.583601,65.465591
+108,Uzbekistan,Gurlan,min_aqi,60,41.8447222,60.3898845
+109,Zambia,Nakonde,min_aqi,19,-9.3314463,32.7547861
+110,Morocco,Azimur,min_aqi,27,59.276396,-138.4730724
+111,Belarus,Hrodna,min_aqi,31,53.6834599,23.8342648
+112,Norway,Mo I Rana,min_aqi,25,66.3110969,14.1386991
+113,Malta,Sliema,min_aqi,39,35.9127609,14.5020708
+114,Rwanda,Cyangugu,min_aqi,56,-2.4887775,28.8958127
+115,Sri Lanka,Galle,min_aqi,41,6.0328139,80.214955
+116,Botswana,Ghanzi,min_aqi,15,-21.6968123,21.6457062
+117,Burundi,Makamba,min_aqi,39,-4.1978315,29.8073996
+118,Jamaica,Port Antonio,min_aqi,41,18.175168,-76.4474201
+119,Central African Republic,Obo,min_aqi,26,12.2111051,43.1685809
+120,Kenya,Wajir,min_aqi,20,1.6672539,39.6663742966066
+121,Niger,Say,min_aqi,31,13.1024623,2.3626379
+122,Mali,Niono,min_aqi,22,14.7035,-6.006020833333334
+123,Slovenia,Ljubljana,min_aqi,31,46.0500268,14.5069289
+124,Costa Rica,Liberia,min_aqi,28,5.7499721,-9.3658524
+125,Nicaragua,Camoapa,min_aqi,19,12.3844531,-85.5126428
+126,South Korea,Seoul,min_aqi,421,37.5666791,126.9782914
+127,Burkina Faso,Boromo,min_aqi,26,11.7447567,-2.9300274
+128,Cabo Verde,Mindelo,min_aqi,36,16.8873057,-24.9864064
+129,Mozambique,Chokwe,min_aqi,19,-24.4884622,32.85997680915883
+130,Mauritania,Nouadhibou,min_aqi,157,20.9127045,-17.0503094
+131,Guinea-Bissau,Bafata,min_aqi,109,12.1723403,-14.6555027
+132,United Arab Emirates,Dubai,min_aqi,152,25.2653471,55.2924914
+133,Eritrea,Addi Ugri,min_aqi,75,14.8864381,38.80059134818357
+134,Tajikistan,Tugalan,min_aqi,75,40.0853628,65.5212799
+135,Barbados,Bridgetown,min_aqi,73,13.0977832,-59.6184184
+136,Algeria,Aflu,min_aqi,36,-10.7862905,13.9515976
+137,Iraq,Panjwin,min_aqi,55,41.1796147,122.0524321
+138,Syria,Idlib,min_aqi,56,35.9301902,36.6352596
+139,Gabon,Oyem,min_aqi,40,1.5997904,11.5751003
+140,Liberia,Zwedru,min_aqi,17,6.068724,-8.1342735
+141,Laos,Luang Prabang,min_aqi,23,19.901400600000002,102.1681717615433
+142,Bhutan,Punakha,min_aqi,21,27.58214055,89.86303167109001
+143,Yemen,Aden,min_aqi,81,12.789585,45.028504
+144,Togo,Mango,min_aqi,40,44.686443,8.150239
+145,Turkmenistan,Gazojak,min_aqi,55,41.189246,61.4059698
+146,Saint Lucia,Castries,min_aqi,79,14.0095966,-60.9902359
+147,Kuwait,Hawalli,min_aqi,161,29.323660850000003,48.11531483531321
+148,Libya,Tubruq,min_aqi,44,16.34506,43.377141
+149,Georgia,Khoni,min_aqi,31,42.3245517,42.4221702
+150,Nepal,Khandbari,min_aqi,34,27.3666794,87.20679989776897
+151,Estonia,Maardu,min_aqi,23,59.468192,24.9896751
+152,Trinidad and Tobago,Chaguanas,min_aqi,59,10.5147394,-61.4076757
+153,Jordan,Wadi Musa,min_aqi,68,24.270078,56.0637401
+154,Cyprus,Aradippou,min_aqi,45,34.9496176,33.5926752
+155,Montenegro,Ulcinj,min_aqi,52,41.926012,19.2055563
+156,Comoros,Fomboni,min_aqi,26,-12.284054,43.742727
+157,Iceland,Reykjavik,min_aqi,23,64.145981,-21.9422367
+158,Andorra,Andorra La Vella,min_aqi,27,42.5069391,1.5212467
+159,Oman,Salalah,min_aqi,87,17.0174945,54.1010923
+160,Equatorial Guinea,Malabo,min_aqi,32,3.741877,8.7740663
+161,Luxembourg,Dudelange,min_aqi,26,49.4786477,6.0847792
+162,Vanuatu,Vila,min_aqi,30,41.2976935,-7.7457614
+163,Aruba,Oranjestad,min_aqi,163,12.5201024,-70.0371329
+164,Belize,Dangriga,min_aqi,22,16.9666599,-88.2247368
+165,Qatar,Khor,min_aqi,151,20.1727724,85.6138614
+166,Palau,Koror,min_aqi,16,7.343275,134.4766767
+167,Suriname,Paramaribo,min_aqi,21,5.8247628,-55.1703941
+168,Singapore,Singapore,min_aqi,91,1.357107,103.8194992
+169,Maldives,Male,min_aqi,19,4.1779879,73.5107387
+170,Bahrain,Manama,min_aqi,188,26.2235041,50.5822436
+171,Seychelles,Victoria,min_aqi,26,-36.5986096,144.6780052
+172,Palestine,Jerusalem,min_aqi,86,31.7788242,35.2257626
+173,Saint Kitts and Nevis,Basseterre,min_aqi,90,17.2960919,-62.722301
+174,Monaco,Beausoleil,min_aqi,56,43.748281,7.4219677
+175,Russia,Tynda,max_aqi,500,55.149694,124.7375884
+176,Brazil,Duque De Caxias,max_aqi,268,-22.7896225,-43.309929
+177,Italy,Pianezza,max_aqi,152,45.105847,7.543418
+178,Poland,Wodzislaw Slaski,max_aqi,115,50.00230565,18.44810906198549
+179,France,Pertuis,max_aqi,151,43.6951468,5.5032671
+180,United States of America,Durango,max_aqi,500,24.833333,-104.833333
+181,Germany,Lindenberg,max_aqi,110,47.6015605,9.8863905
+182,Belgium,La Louviere,max_aqi,73,50.4793576,4.18563
+183,Egypt,Esna,max_aqi,166,47.3390994,6.3241941
+184,China,Chengdu,max_aqi,386,30.7001324,104.0708278
+185,Netherlands,Willemstad,max_aqi,121,12.1066695,-68.9351307
+186,India,Rania,max_aqi,500,22.7374066,85.09285231583098
+187,Pakistan,Bahawalnagar,max_aqi,500,29.9935922,73.2527621
+188,Republic of North Macedonia,Prilep,max_aqi,123,41.3444984,21.5527115
+189,Colombia,Riohacha,max_aqi,160,11.5352153,-72.9119566
+190,Romania,Pecica,max_aqi,74,46.1666788,21.0666809
+191,Indonesia,Serpong,max_aqi,297,-6.3131287,106.68073925095902
+192,Finland,Kirkkonummi,max_aqi,185,60.1227857,24.4406694
+193,South Africa,Boksburg,max_aqi,500,-26.2124639,28.2617471
+194,United Kingdom,Falmouth,max_aqi,78,50.1552197,-5.0688262
+195,Tanzania,Karema,max_aqi,195,36.2993931,5.5026541
+196,Haiti,Hinche,max_aqi,144,19.1445541,-72.0087527
+197,Somalia,Bosaso,max_aqi,160,11.27848,49.179952
+198,Philippines,Malanday,max_aqi,165,14.7183212,120.9571742
+199,Latvia,Jurmala,max_aqi,56,56.9727164,23.7886979
+200,Chad,Faya,max_aqi,156,47.3187082,-1.602319
+201,New Zealand,Waitakere,max_aqi,70,-36.848987,174.5442266
+202,Tunisia,Bin Qirdan,max_aqi,167,15.221991,44.231644
+203,Vietnam,Son Tay,max_aqi,194,21.1410048,105.505651
+204,Iran,Eslamshahr,max_aqi,235,35.5478513,51.2318676
+205,Mexico,Tepeapulco,max_aqi,384,19.806301050000002,-98.50600450340094
+206,Japan,Sobue,max_aqi,136,39.0293524,46.5875512
+207,El Salvador,Ilopango,max_aqi,151,13.6708753,-89.044847
+208,Bulgaria,Pestera,max_aqi,92,44.1842829,28.1269829
+209,Nigeria,Shagamu,max_aqi,217,6.8477165,3.6440551
+210,South Sudan,Tonj,max_aqi,84,8.211859700000002,29.158057505600063
+211,Guatemala,Ciudad Vieja,max_aqi,129,14.512764350000001,-90.7698852760732
+212,Ireland,Skerries,max_aqi,64,60.4208012,-0.7703309139221506
+213,Turkey,Cizre,max_aqi,121,37.3324374,42.1854699
+214,Peru,Chosica,max_aqi,179,-11.9367735,-76.6969111
+215,Dem. Rep. Congo,Kasongo Lunda,max_aqi,481,-6.4786095,16.8168133
+216,Canada,Amherstburg,max_aqi,83,42.101309,-83.1086801
+217,Switzerland,Geneva,max_aqi,128,31.0862933,-85.803014
+218,Denmark,Bronderslev,max_aqi,54,57.20647315,10.189037439154802
+219,Cameroon,Loum,max_aqi,124,10.634295000000002,-5.370284538192811
+220,Australia,Palmerston,max_aqi,264,-40.356317,175.6112388
+221,Portugal,Cascais,max_aqi,47,38.6968919,-9.4204495
+222,Côte d'Ivoire,Anyama,max_aqi,138,5.4958898,-4.056921
+223,Sweden,Skelleftea,max_aqi,80,64.7520185,20.959339
+224,Ethiopia,Bati,max_aqi,178,49.1714752,5.9697458
+225,Thailand,Bang Yai,max_aqi,164,13.7393851,100.4854309
+226,Hungary,Batonyterenye,max_aqi,95,47.9955532,19.8272105
+227,Kazakhstan,Ilyich,max_aqi,161,45.4218123,36.7717397
+228,Israel,Nahef,max_aqi,143,50.1118999,8.9162321
+229,Spain,Marratxi,max_aqi,94,39.621369349999995,2.7328446354668054
+230,Myanmar,Akyab,max_aqi,145,24.26396105,75.24512630279455
+231,Papua New Guinea,Kokopo,max_aqi,104,-4.5,152.25
+232,Madagascar,Ifanadiana,max_aqi,73,-21.3029887,47.6366961
+233,Lithuania,Plunge,max_aqi,59,55.9139294,21.8533903
+234,Ghana,Akwatia,max_aqi,150,6.0422,-0.797137
+235,Azerbaijan,Zabrat,max_aqi,95,45.6162374,26.1313263
+236,Armenia,Masis,max_aqi,100,40.0617279,44.4427915
+237,Ukraine,Slavuta,max_aqi,106,44.69891,23.683459
+238,Malaysia,Miri,max_aqi,209,4.3940102,113.9880199
+239,Serbia,Novi Sad,max_aqi,118,45.2551338,19.8451756
+240,Slovakia,Revuca,max_aqi,89,48.6833333,20.1166667
+241,Gambia,Brikama,max_aqi,162,13.2743914,-16.6454431
+242,Ecuador,Quito,max_aqi,131,-0.2201641,-78.5123274
+243,Bosnia and Herzegovina,Foca,max_aqi,102,43.5058554,18.774393
+244,Czechia,Bruntal,max_aqi,96,49.9885113,17.4652901
+245,Argentina,Villa Constitucion,max_aqi,141,-33.227206,-60.3298225
+246,Dominican Republic,Villa Bisono,max_aqi,160,18.429107950000002,-68.98107544765574
+247,Guinea,Koundara,max_aqi,153,12.485154,-13.298509
+248,Bolivia,Portachuelo,max_aqi,67,-17.3545949,-63.3946477
+249,Bangladesh,Dinajpur,max_aqi,222,25.5,88.5
+250,Sudan,Barbar,max_aqi,182,34.4221319,-119.702667
+251,Chile,Lampa,max_aqi,358,31.1761363,-98.240563
+252,Panama,Pacora,max_aqi,134,5.5272323,-75.4594449
+253,Congo,Nkayi,max_aqi,155,-4.1840962,13.2883675
+254,Kyrgyzstan,Suluktu,max_aqi,125,39.936596,69.5685206
+255,Mauritius,Grand Baie,max_aqi,61,-20.0130199,57.584627
+256,Greece,Arta,max_aqi,129,11.3861664,42.5742801
+257,Malawi,Mangochi,max_aqi,70,-14.1406247,35.32636243192955
+258,Cuba,Manati,max_aqi,122,18.4182467,-66.49177997205541
+259,Saudi Arabia,Riyadh,max_aqi,196,24.638916,46.7160104
+260,Benin,Dogbo,max_aqi,101,6.801846,1.7815205
+261,Sierra Leone,Kambia,max_aqi,77,9.1246846,-12.9189134
+262,Lebanon,Juniyah,max_aqi,82,15.238787,48.920354
+263,Uruguay,Colonia,max_aqi,52,-34.1664516,-57.4993268
+264,Namibia,Luderitz,max_aqi,232,-26.6500086,15.157266
+265,Albania,Peshkopi,max_aqi,115,41.6848768,20.4287139
+266,Guyana,New Amsterdam,max_aqi,61,6.2426407,-57.5168359
+267,Senegal,Dagana,max_aqi,211,16.516508,-15.50684
+268,Lesotho,Maseru,max_aqi,134,-29.310054,27.478222
+269,Mongolia,Hovd,max_aqi,100,62.2551933,-7.2310228
+270,Venezuela,Mariara,max_aqi,165,10.2891045,-67.7089327
+271,Solomon Islands,Honiara,max_aqi,18,-9.4310769,159.9552552
+272,Paraguay,Villa Hayes,max_aqi,160,-25.0928654,-57.5246478
+273,Zimbabwe,Bindura,max_aqi,93,-17.2989727,31.3299701
+274,Austria,Sankt Andra,max_aqi,80,46.7661111,14.8236111
+275,Croatia,Velika Gorica,max_aqi,76,45.7155672,16.0717164
+276,Honduras,La Lima,max_aqi,92,15.4402726,-87.9277925
+277,Cambodia,Ta Khmau,max_aqi,73,11.4687395,104.9451162
+278,Uganda,Kisoro,max_aqi,180,-1.19896125,29.67169752654723
+279,Moldova,Straseni,max_aqi,69,47.1474401,28.6150196
+280,Angola,Caxito,max_aqi,285,-8.5827504,13.6600788
+281,Kingdom of Eswatini,Big Bend,max_aqi,169,41.01040355,-121.92235968372319
+282,Afghanistan,Kusk,max_aqi,198,41.461025,33.942692
+283,Uzbekistan,Turtkul,max_aqi,300,41.5544131,61.0002405
+284,Zambia,Senanga,max_aqi,125,-16.104099,23.301807
+285,Morocco,Rabat,max_aqi,83,34.02236,-6.8340222
+286,Belarus,Zlobin,max_aqi,71,45.2926096,14.6536287
+287,Norway,Kristiansand,max_aqi,52,58.085627599999995,7.93185802875815
+288,Malta,Mosta,max_aqi,70,35.9079178,14.4241508
+289,Rwanda,Gisenyi,max_aqi,157,-1.693545,29.259855
+290,Sri Lanka,Nawalapitiya,max_aqi,106,7.0558938,80.5350145
+291,Botswana,Palapye,max_aqi,79,-22.536888,27.123513
+292,Burundi,Bururi,max_aqi,97,-3.8581592,29.584379
+293,Jamaica,May Pen,max_aqi,125,17.974637,-77.2581951
+294,Central African Republic,Mbaiki,max_aqi,86,3.8728278,17.9860847
+295,Kenya,Kiambu,max_aqi,175,-1.1663925,36.8252791
+296,Niger,Arlit,max_aqi,164,18.739079,7.393331
+297,Mali,Nioro,max_aqi,182,15.2304528,-9.5899063
+298,Slovenia,Celje,max_aqi,85,46.2293889,15.2616828
+299,Costa Rica,San Rafael Abajo,max_aqi,94,9.8943757,-84.0821506
+300,Nicaragua,Chinandega,max_aqi,143,12.6310831,-87.1347357
+301,South Korea,Seoul,max_aqi,421,37.5666791,126.9782914
+302,Burkina Faso,Ouahigouya,max_aqi,81,13.580982,-2.417699
+303,Cabo Verde,Praia,max_aqi,40,14.9162811,-23.5095095
+304,Mozambique,Matola,max_aqi,66,-25.966917,32.466956
+305,Mauritania,Bababe,max_aqi,224,16.3406075,-13.948088
+306,Guinea-Bissau,Bissora,max_aqi,195,12.2235221,-15.4507416
+307,United Arab Emirates,Abu Dhabi,max_aqi,170,24.4538352,54.3774014
+308,Eritrea,Edd,max_aqi,163,47.7113958,-98.9087265
+309,Tajikistan,Dangara,max_aqi,156,29.6798517,75.8930532
+310,Barbados,Bridgetown,max_aqi,73,13.0977832,-59.6184184
+311,Algeria,Tuggurt,max_aqi,164,,
+312,Iraq,Hit,max_aqi,158,50.377879,6.9387448
+313,Syria,Jaramana,max_aqi,167,33.4863893,36.3482783
+314,Gabon,Libreville,max_aqi,131,0.4086518,9.4418849
+315,Liberia,Monrovia,max_aqi,60,6.328034,-10.797788
+316,Laos,Si Chiang Mai,max_aqi,75,18.8336794,98.9662670495394
+317,Bhutan,Samdrup Jongkhar,max_aqi,31,26.916667,91.616667
+318,Yemen,Sayyan,max_aqi,179,13.823543,44.211837
+319,Togo,Vogan,max_aqi,108,6.334956,1.529707
+320,Turkmenistan,Seydi,max_aqi,163,65.2598475,-14.0049009
+321,Saint Lucia,Castries,max_aqi,79,14.0095966,-60.9902359
+322,Kuwait,Kayfan,max_aqi,164,24.4868576,46.6396001
+323,Libya,Nalut,max_aqi,191,30.6131484,10.6709595
+324,Georgia,Surami,max_aqi,69,42.0180524,43.5629931
+325,Nepal,Birganj,max_aqi,231,27.0135196,84.8763804
+326,Estonia,Tallinn,max_aqi,96,59.4372155,24.7453688
+327,Trinidad and Tobago,Sangre Grande,max_aqi,161,10.6375402,-61.11774994093055
+328,Jordan,Madaba,max_aqi,144,31.7165941,35.7943856
+329,Cyprus,Lemesos,max_aqi,58,34.6852901,33.0332657
+330,Montenegro,Niksic,max_aqi,79,42.7739388,18.9488097
+331,Comoros,Moroni,max_aqi,39,-11.6931255,43.2543044
+332,Iceland,Reykjavik,max_aqi,23,64.145981,-21.9422367
+333,Andorra,Encamp,max_aqi,32,42.5360425,1.5836096
+334,Oman,Ruwi,max_aqi,159,23.5995525,58.550656
+335,Equatorial Guinea,Anisoc,max_aqi,53,1.844383,10.747593
+336,Luxembourg,Luxemburg,max_aqi,63,42.6027722,-91.0740206
+337,Vanuatu,Vila,max_aqi,30,41.2976935,-7.7457614
+338,Aruba,Oranjestad,max_aqi,163,12.5201024,-70.0371329
+339,Belize,Belmopan,max_aqi,59,17.250199,-88.770018
+340,Qatar,Doha,max_aqi,164,25.2856329,51.5264162
+341,Palau,Koror,max_aqi,16,7.343275,134.4766767
+342,Suriname,Nieuw Nickerie,max_aqi,65,5.9420605,-56.9893521
+343,Singapore,Singapore,max_aqi,91,1.357107,103.8194992
+344,Maldives,Male,max_aqi,19,4.1779879,73.5107387
+345,Bahrain,Manama,max_aqi,188,26.2235041,50.5822436
+346,Seychelles,Victoria,max_aqi,26,-36.5986096,144.6780052
+347,Palestine,Jerusalem,max_aqi,86,31.7788242,35.2257626
+348,Saint Kitts and Nevis,Basseterre,max_aqi,90,17.2960919,-62.722301
+349,Monaco,Beausoleil,max_aqi,56,43.748281,7.4219677
+350,Russia,Komsomolsk Na Amure,mean_aqi,42,50.5497277,137.0099189
+351,Brazil,Itapemirim,mean_aqi,44,-21.0105534,-40.8351239
+352,Italy,Giussano,mean_aqi,62,45.6993814,9.2097294
+353,Poland,Myslenice,mean_aqi,52,49.834608,19.9384283
+354,France,Epernay,mean_aqi,53,49.042561,3.9528655
+355,United States of America,Falls Church,mean_aqi,59,38.882334,-77.1710914
+356,Germany,Overath,mean_aqi,48,50.9320015,7.2839042
+357,Belgium,Maasmechelen,mean_aqi,44,50.9634179,5.6960212
+358,Egypt,Beba,mean_aqi,101,-18.6375606,45.5444441
+359,China,Paiho,mean_aqi,126,62.686689,29.9271405
+360,Netherlands,Maassluis,mean_aqi,38,51.9266671,4.244000657157326
+361,India,Damnagar,mean_aqi,152,21.6950878,71.5160345
+362,Pakistan,Islamabad,mean_aqi,178,33.6938118,73.0651511
+363,Republic of North Macedonia,Bitola,mean_aqi,66,41.0316005,21.3302511
+364,Colombia,Don Matias,mean_aqi,66,-36.0584603,-71.7606032
+365,Romania,Tarnaveni,mean_aqi,53,46.3295278,24.2804126
+366,Indonesia,Wanasari,mean_aqi,93,-7.4065716,106.9719531
+367,Finland,Seinajoki,mean_aqi,38,62.7954104,22.8442015
+368,South Africa,Boksburg,mean_aqi,500,-26.2124639,28.2617471
+369,United Kingdom,Dronfield,mean_aqi,39,53.3019998,-1.4752184
+370,Tanzania,Malinyi,mean_aqi,31,-9.188061900000001,36.15205494284014
+371,Haiti,Hinche,mean_aqi,144,19.1445541,-72.0087527
+372,Somalia,Bosaso,mean_aqi,160,11.27848,49.179952
+373,Philippines,Dalipuga,mean_aqi,61,8.3059601,124.258587
+374,Latvia,Jurmala,mean_aqi,56,56.9727164,23.7886979
+375,Chad,Faya,mean_aqi,156,47.3187082,-1.602319
+376,New Zealand,Waitakere,mean_aqi,70,-36.848987,174.5442266
+377,Tunisia,Bin Qirdan,mean_aqi,167,15.221991,44.231644
+378,Vietnam,Bac Ninh,mean_aqi,87,21.0955822,106.1264766
+379,Iran,Eslamshahr,mean_aqi,235,35.5478513,51.2318676
+380,Mexico,Sayula,mean_aqi,89,19.857163800000002,-103.60889569436725
+381,Japan,Nakatsugawa,mean_aqi,51,35.4876463,137.5005402
+382,El Salvador,Ilopango,mean_aqi,151,13.6708753,-89.044847
+383,Bulgaria,Bjala,mean_aqi,54,59.4297472,8.1722111
+384,Nigeria,Shagamu,mean_aqi,217,6.8477165,3.6440551
+385,South Sudan,Yambio,mean_aqi,60,4.5680716,28.39767
+386,Guatemala,Ciudad Vieja,mean_aqi,129,14.512764350000001,-90.7698852760732
+387,Ireland,Bray,mean_aqi,40,49.10663,0.84147
+388,Turkey,Suhut,mean_aqi,51,38.5339612,30.5461288
+389,Peru,Tingo Maria,mean_aqi,36,-9.2983713,-76.0003034
+390,Dem. Rep. Congo,Kasongo Lunda,mean_aqi,481,-6.4786095,16.8168133
+391,Canada,Thunder Bay,mean_aqi,83,48.406414,-89.259796
+392,Switzerland,Horgen,mean_aqi,55,47.260692,8.5976831
+393,Denmark,Skive,mean_aqi,38,56.5659301,9.029272
+394,Cameroon,Loum,mean_aqi,124,10.634295000000002,-5.370284538192811
+395,Australia,Geelong,mean_aqi,33,-38.1493248,144.3598241
+396,Portugal,Esmoriz,mean_aqi,34,40.9627695,-8.6355218
+397,Côte d'Ivoire,Anyama,mean_aqi,138,5.4958898,-4.056921
+398,Sweden,Hoganas,mean_aqi,36,56.2008565,12.5515849
+399,Ethiopia,Bure,mean_aqi,78,41.4016294,-89.5341179
+400,Thailand,Phrai Bung,mean_aqi,53,14.7543619,104.3610246
+401,Hungary,Cegled,mean_aqi,63,47.1716447,19.7977516
+402,Kazakhstan,Shu,mean_aqi,61,39.3305654,112.4262465
+403,Israel,Nahef,mean_aqi,143,50.1118999,8.9162321
+404,Spain,Tolosa,mean_aqi,38,43.1386097,-2.0723558
+405,Myanmar,Akyab,mean_aqi,145,24.26396105,75.24512630279455
+406,Papua New Guinea,Kokopo,mean_aqi,104,-4.5,152.25
+407,Madagascar,Ifanadiana,mean_aqi,73,-21.3029887,47.6366961
+408,Lithuania,Plunge,mean_aqi,59,55.9139294,21.8533903
+409,Ghana,Akwatia,mean_aqi,150,6.0422,-0.797137
+410,Azerbaijan,Zabrat,mean_aqi,95,45.6162374,26.1313263
+411,Armenia,Alaverdi,mean_aqi,53,41.0981441,44.6460913
+412,Ukraine,Izyum,mean_aqi,51,49.2160489,37.3015645
+413,Malaysia,Chaah,mean_aqi,81,2.2488989,103.0429494
+414,Serbia,Sombor,mean_aqi,67,45.7727397,19.1147036
+415,Slovakia,Pezinok,mean_aqi,67,48.2854539,17.270194
+416,Gambia,Brikama,mean_aqi,162,13.2743914,-16.6454431
+417,Ecuador,Catacocha,mean_aqi,45,-4.0503147,-79.6497578
+418,Bosnia and Herzegovina,Foca,mean_aqi,102,43.5058554,18.774393
+419,Czechia,Roznov,mean_aqi,60,46.8388861,26.5093542
+420,Argentina,Villa Constitucion,mean_aqi,141,-33.227206,-60.3298225
+421,Dominican Republic,Barahona,mean_aqi,108,18.18934955,-71.22860190040255
+422,Guinea,Kindia,mean_aqi,62,10.1154374,-13.1916883
+423,Bolivia,Ascension,mean_aqi,23,-7.94110725,-14.363118886394432
+424,Bangladesh,Raozan,mean_aqi,113,22.5277056,91.9207616
+425,Sudan,Barbar,mean_aqi,182,34.4221319,-119.702667
+426,Chile,Lampa,mean_aqi,358,31.1761363,-98.240563
+427,Panama,Pacora,mean_aqi,134,5.5272323,-75.4594449
+428,Congo,Mossendjo,mean_aqi,87,-2.9453966,12.7154513
+429,Kyrgyzstan,Suluktu,mean_aqi,125,39.936596,69.5685206
+430,Mauritius,Mahebourg,mean_aqi,41,-20.4111041,57.7060616
+431,Greece,Voula,mean_aqi,68,48.8510732,2.8928314
+432,Malawi,Kasungu,mean_aqi,47,-12.992487650000001,33.472356695915096
+433,Cuba,Rio Cauto,mean_aqi,63,20.5592012,-76.9165406
+434,Saudi Arabia,Riyadh,mean_aqi,196,24.638916,46.7160104
+435,Benin,Dogbo,mean_aqi,101,6.801846,1.7815205
+436,Sierra Leone,Kambia,mean_aqi,77,9.1246846,-12.9189134
+437,Lebanon,Juniyah,mean_aqi,82,15.238787,48.920354
+438,Uruguay,Maldonado,mean_aqi,26,-34.9087162,-54.9582718
+439,Namibia,Luderitz,mean_aqi,232,-26.6500086,15.157266
+440,Albania,Gramsh,mean_aqi,68,40.8654273,20.1864495
+441,Guyana,New Amsterdam,mean_aqi,61,6.2426407,-57.5168359
+442,Senegal,Linguere,mean_aqi,152,15.2399404,-15.0196119
+443,Lesotho,Maseru,mean_aqi,134,-29.310054,27.478222
+444,Mongolia,Hovd,mean_aqi,100,62.2551933,-7.2310228
+445,Venezuela,Ciudad Ojeda,mean_aqi,77,10.2004123,-71.3100065
+446,Solomon Islands,Honiara,mean_aqi,18,-9.4310769,159.9552552
+447,Paraguay,Villa Hayes,mean_aqi,160,-25.0928654,-57.5246478
+448,Zimbabwe,Bindura,mean_aqi,93,-17.2989727,31.3299701
+449,Austria,Sankt Andra,mean_aqi,80,46.7661111,14.8236111
+450,Croatia,Velika Gorica,mean_aqi,76,45.7155672,16.0717164
+451,Honduras,La Lima,mean_aqi,92,15.4402726,-87.9277925
+452,Cambodia,Ta Khmau,mean_aqi,73,11.4687395,104.9451162
+453,Uganda,Mpigi,mean_aqi,85,0.1273955,32.25275169016075
+454,Moldova,Slobozia,mean_aqi,52,44.5635999,27.3618477
+455,Angola,Caxito,mean_aqi,285,-8.5827504,13.6600788
+456,Kingdom of Eswatini,Big Bend,mean_aqi,169,41.01040355,-121.92235968372319
+457,Afghanistan,Sar E Pul,mean_aqi,95,36.29894,66.007414
+458,Uzbekistan,Hamza,mean_aqi,119,39.3142445,46.7070842
+459,Zambia,Samfya,mean_aqi,40,-11.3684948,29.5516598
+460,Morocco,Tetouan,mean_aqi,45,35.570175,-5.3742776
+461,Belarus,Kobryn,mean_aqi,38,52.2085858,24.3542923
+462,Norway,Jessheim,mean_aqi,35,60.1415121,11.1751516
+463,Malta,Zabbar,mean_aqi,51,35.8753368,14.5374788
+464,Rwanda,Gisenyi,mean_aqi,157,-1.693545,29.259855
+465,Sri Lanka,Kalutara,mean_aqi,63,6.5835219,79.9612508
+466,Botswana,Palapye,mean_aqi,79,-22.536888,27.123513
+467,Burundi,Kayanza,mean_aqi,62,-3.0214816,29.6458034
+468,Jamaica,May Pen,mean_aqi,125,17.974637,-77.2581951
+469,Central African Republic,Bocaranga,mean_aqi,64,6.995897,15.638835
+470,Kenya,Eldoret,mean_aqi,74,0.5198329,35.2715481
+471,Niger,Matameye,mean_aqi,75,13.422144,8.47855
+472,Mali,Nioro,mean_aqi,182,15.2304528,-9.5899063
+473,Slovenia,Jesenice,mean_aqi,70,46.4323705,14.0623942
+474,Costa Rica,San Francisco,mean_aqi,58,37.7792588,-122.4193286
+475,Nicaragua,Juigalpa,mean_aqi,47,12.1085987,-85.3689381
+476,South Korea,Seoul,mean_aqi,421,37.5666791,126.9782914
+477,Burkina Faso,Ouahigouya,mean_aqi,81,13.580982,-2.417699
+478,Cabo Verde,Praia,mean_aqi,40,14.9162811,-23.5095095
+479,Mozambique,Matola,mean_aqi,66,-25.966917,32.466956
+480,Mauritania,Bababe,mean_aqi,224,16.3406075,-13.948088
+481,Guinea-Bissau,Bissora,mean_aqi,195,12.2235221,-15.4507416
+482,United Arab Emirates,Abu Dhabi,mean_aqi,170,24.4538352,54.3774014
+483,Eritrea,Edd,mean_aqi,163,47.7113958,-98.9087265
+484,Tajikistan,Dangara,mean_aqi,156,29.6798517,75.8930532
+485,Barbados,Bridgetown,mean_aqi,73,13.0977832,-59.6184184
+486,Algeria,Tuggurt,mean_aqi,164,,
+487,Iraq,Hit,mean_aqi,158,50.377879,6.9387448
+488,Syria,Yabrud,mean_aqi,86,33.9665336,36.6609885
+489,Gabon,Moanda,mean_aqi,78,-1.554764,13.2218993
+490,Liberia,Monrovia,mean_aqi,60,6.328034,-10.797788
+491,Laos,Si Chiang Mai,mean_aqi,75,18.8336794,98.9662670495394
+492,Bhutan,Samdrup Jongkhar,mean_aqi,31,26.916667,91.616667
+493,Yemen,Sayyan,mean_aqi,179,13.823543,44.211837
+494,Togo,Atakpame,mean_aqi,65,7.5320603,1.1219479
+495,Turkmenistan,Seydi,mean_aqi,163,65.2598475,-14.0049009
+496,Saint Lucia,Castries,mean_aqi,79,14.0095966,-60.9902359
+497,Kuwait,Kayfan,mean_aqi,164,24.4868576,46.6396001
+498,Libya,Nalut,mean_aqi,191,30.6131484,10.6709595
+499,Georgia,Sukhumi,mean_aqi,40,55.6057232,-4.4997438
+500,Nepal,Birganj,mean_aqi,231,27.0135196,84.8763804
+501,Estonia,Tallinn,mean_aqi,96,59.4372155,24.7453688
+502,Trinidad and Tobago,Sangre Grande,mean_aqi,161,10.6375402,-61.11774994093055
+503,Jordan,Madaba,mean_aqi,144,31.7165941,35.7943856
+504,Cyprus,Larnaca,mean_aqi,50,34.9236095,33.6236184
+505,Montenegro,Niksic,mean_aqi,79,42.7739388,18.9488097
+506,Comoros,Moroni,mean_aqi,39,-11.6931255,43.2543044
+507,Iceland,Reykjavik,mean_aqi,23,64.145981,-21.9422367
+508,Andorra,Les Escaldes,mean_aqi,29,42.5090019,1.5404067
+509,Oman,Ruwi,mean_aqi,159,23.5995525,58.550656
+510,Equatorial Guinea,Anisoc,mean_aqi,53,1.844383,10.747593
+511,Luxembourg,Luxemburg,mean_aqi,63,42.6027722,-91.0740206
+512,Vanuatu,Vila,mean_aqi,30,41.2976935,-7.7457614
+513,Aruba,Oranjestad,mean_aqi,163,12.5201024,-70.0371329
+514,Belize,Belmopan,mean_aqi,59,17.250199,-88.770018
+515,Qatar,Doha,mean_aqi,164,25.2856329,51.5264162
+516,Palau,Koror,mean_aqi,16,7.343275,134.4766767
+517,Suriname,Nieuw Nickerie,mean_aqi,65,5.9420605,-56.9893521
+518,Singapore,Singapore,mean_aqi,91,1.357107,103.8194992
+519,Maldives,Male,mean_aqi,19,4.1779879,73.5107387
+520,Bahrain,Manama,mean_aqi,188,26.2235041,50.5822436
+521,Seychelles,Victoria,mean_aqi,26,-36.5986096,144.6780052
+522,Palestine,Jerusalem,mean_aqi,86,31.7788242,35.2257626
+523,Saint Kitts and Nevis,Basseterre,mean_aqi,90,17.2960919,-62.722301
+524,Monaco,Beausoleil,mean_aqi,56,43.748281,7.4219677
